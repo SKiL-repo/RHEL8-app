@@ -1,0 +1,5 @@
+#!/bin/bash
+
+# Podstawowy zestaw aplikacji do pracy z RHEL8.
+
+sudo dnf install vim neofetch cowsay screen mc python3-pip -y
